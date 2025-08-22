@@ -1,1 +1,4 @@
 .DS_Store
+**/cache/
+**/saved_models/
+**/*.bin
